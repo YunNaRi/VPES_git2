@@ -5,6 +5,7 @@ int main() {
 
 	if (k < w) {
 	//빈공간
+	//빈공간2
 	}
 
 	return 0;
