@@ -1,10 +1,10 @@
-
 int main() {
 	int k = 1;
 	int w=0;
 	test();
-	if (k < w) {
 
+	if (k < w) {
+	//빈공간
 	}
 
 	return 0;
